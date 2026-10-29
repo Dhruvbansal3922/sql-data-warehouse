@@ -80,13 +80,13 @@ SQL Server (T-SQL) · Stored Procedures · Views · `BULK INSERT` · Star Schema
 
 ## 👤 About Me
 
-Hi, I'm **Prashant Yadav**, a Data Analytics and Business Intelligence enthusiast with a passion for transforming raw data into meaningful insights. I enjoy working with SQL, Python, Power BI, and data visualization to solve real-world business problems and support data-driven decision-making.
+Hi, I'm **Dhruv Bansal**, a Data Analytics and Business Intelligence enthusiast with a passion for transforming raw data into meaningful insights. I enjoy working with SQL, Python, Power BI, and data visualization to solve real-world business problems and support data-driven decision-making.
 
 I'm continuously expanding my skills by building hands-on projects that demonstrate practical analytics techniques, problem-solving, and best practices in data analysis.
 
-🔗 LinkedIn: https://www.linkedin.com/in/prashant-yadav0611/
+🔗 LinkedIn: https://www.linkedin.com/in/dhruv-bansal-388501293/
 
-📧 Email: prashantyadav0663@gmail.com
+📧 Email: dhruvbansal3922@gmail.com
 
 ---
 
